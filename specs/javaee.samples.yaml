@@ -14,7 +14,7 @@ related:
     home: readme.adoc
   - name: javaee-samples/javaee7-samples
     home: README.md
-  - name javaee-samples/javaee7-deck
+  - name: javaee-samples/javaee7-deck
     home: README.md
   - name: agoncal/agoncal-application-petstore-ee6
     home: README.md
@@ -24,4 +24,4 @@ related:
   - name: tomitribe/chatterbox
   - name: tomitribe/sabot
   - name: tomitribe/crest
-  - name: tomitribe/hodao  
+  - name: tomitribe/hodao

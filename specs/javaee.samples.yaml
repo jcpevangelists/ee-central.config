@@ -25,4 +25,7 @@ related:
   - name: tomitribe/chatterbox
   - name: tomitribe/sabot
   - name: tomitribe/crest
+    resources:
+      - url: http://tomee.apache.org/
+        title: Apache TomEE
   - name: tomitribe/hodao

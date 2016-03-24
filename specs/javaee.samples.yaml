@@ -2,6 +2,7 @@
 ---
 name: jcpevangelists/javaee.samples
 friendly_name: JavaEE Samples
+home: README.md
 resources:
   - http://www.oracle.com/technetwork/java/javaee/overview/index.html
   - url: http://tomee.apache.org/

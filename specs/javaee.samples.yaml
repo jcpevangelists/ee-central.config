@@ -1,0 +1,27 @@
+%YAML 1.2
+---
+name: jcpevangelists/javaee.samples
+friendly_name: JavaEE Samples
+resources:
+  - http://www.oracle.com/technetwork/java/javaee/overview/index.html
+  - url: http://tomee.apache.org/
+    title: Apache TomEE
+related:
+  - name: javaee-samples/javaee7-docker-maven
+    home: readme.adoc
+  - name: javaee-samples/docker-java
+    friendly_name: Docker and Kubernetes for Java Developers
+    home: readme.adoc
+  - name: javaee-samples/javaee7-samples
+    home: README.md
+  - name javaee-samples/javaee7-deck
+    home: README.md
+  - name: agoncal/agoncal-application-petstore-ee6
+    home: README.md
+  - name: tomitribe/crest
+  - name: tomitribe/beryllium
+  - name: tomitribe/microscoped
+  - name: tomitribe/chatterbox
+  - name: tomitribe/sabot
+  - name: tomitribe/crest
+  - name: tomitribe/hodao  

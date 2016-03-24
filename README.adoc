@@ -1,0 +1,4 @@
+= javaee.io Configuration Project
+
+This project holds all the configuration and editable content of the projects published at https://javaee.io/.
+

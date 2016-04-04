@@ -1,0 +1,8 @@
+%YAML 1.2
+---
+spec: true
+friendly_name: Blogs
+resources:
+  - http://blog.arungupta.me/
+  - http://blog.rahmannet.net/
+  - http://www.agilejava.eu/

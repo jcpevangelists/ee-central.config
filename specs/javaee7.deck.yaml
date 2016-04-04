@@ -3,3 +3,4 @@
 name: javaee-samples/javaee7-deck
 friendly_name: JavaEE7 Deck
 home: README.md
+spec: true

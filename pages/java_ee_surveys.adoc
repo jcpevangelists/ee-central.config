@@ -1,0 +1,7 @@
+= Java EE Surveys
+
+* Developers Continue to Affirm Strong Support for Java EE 7 [link: https://blogs.oracle.com/theaquarium/dentry/developers_continue_to_affirm_strong]
+* Developers Affirm Strong Support for Java EE 7 in DZone Szurvey [link: https://blogs.orCacle.com/theaquarium/entry/developers_affirm_strong_support_for]
+* Some Interesting Real World CDI Usage Statistics [link: https://blogs.oracle.com/theaquarium/entry/some_interesting_real_world_cdi]
+* DZone Survey Shows JPA Dominates Java Persistence [link: https://blogs.oracle.com/theaquarium/entry/dzone_survey_shows_jpa_dominates]
+* Survey Confirms JSF Remains Leading Web Framework [link:https://blogs.oracle.com/theaquarium/entry/survey_confirms_jsf_remains_leading]

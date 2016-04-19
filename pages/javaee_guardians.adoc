@@ -214,7 +214,7 @@ activity a timely public review is highly unlikely. JMS is
 likely behind by close to five/six months and things are getting
 worse as time presses on.
 
-== What We are Doing
+= What We are Doing
 
 * We are continuing to enthusiastically evangelize Java EE, including Java EE 8.
 * We are strongly supporting active Java EE 8 JSRs like CDI 2 led by companies like Red Hat.
@@ -224,7 +224,7 @@ worse as time presses on.
 * We are exploring whether some inactive Oracle led JSRs can switch ownership to us or vendors like Red Hat, IBM, Tomitribe or Payara. Our biggest challenge in this regard is getting Oracle to relinquish control of JSRs they are clearly not delivering on.
 * In conjunction to the above in the interim we will provide the functionality that should be standardized in Java EE through open source. We will work with vendors like Oracle, Red Hat, IBM, Tomitribe and Payara to include these features in their Java EE runtimes out-of-the-box. We will provide these features to vendors completely free of charge with the clear goal of eventual standardization via the JCP.
 
-== Who Stands with Us
+= Who Stands with Us
 
 * Dr. James Gosling
 * Adam Bien [link: https://twitter.com/AdamBien]
@@ -270,7 +270,7 @@ worse as time presses on.
 * Shahzad Badar
 * Nick Mpallas
 
-== Java User Groups
+= Java User Groups
 
 * Paris JUG [link: http://www.parisjug.org]
 * Philadelphia JUG
@@ -292,7 +292,7 @@ worse as time presses on.
 * Coimbra JUG, Portugal
 * Pakistan JUG
 
-== Companies
+= Companies
 
 * Jelastic
 * PrimeTek
@@ -304,7 +304,7 @@ worse as time presses on.
 * Present Technologies
 * Ingenit GmbH & Co. KG
 
-== How Can I Help
+= How Can I Help
 
 * You can sign this petition of support with comments [TODO: We need to set up an easy to use petition signing system. It should include an approval step to avoid unwanted content. Perhaps change.org?]
 * You can help us spread the word on this effort by blogging, tweeting, posting, speaking or talking to friends and colleagues. We have our own Twitter account you can follow [link: http://twitter.com/javaee_guardian].
@@ -312,6 +312,6 @@ worse as time presses on.
 * You, your organization or your Java User Group can be listed here as a supporter.
 * You can join our user alias to learn more about what we are doing. Our Google Group can be found here [link: https://groups.google.com/forum/#!forum/javaee-guardians].
 
-== Java EE Vendor Profits
+= Java EE Vendor Profits
 
 * Red Hat Is Now a $2 Billion Open-Source Baby : http://fortune.com/2016/03/22/red-hat-revenue-2-billion-open-source/

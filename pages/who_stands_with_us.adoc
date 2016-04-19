@@ -1,0 +1,45 @@
+= Who Stands with Us
+
+* Dr. James Gosling
+* Adam Bien [link: https://twitter.com/AdamBien]
+* Antonio Goncalves [link: https://twitter.com/agoncal]
+* David Blevins
+* Arjan Tijms [link: https://twitter.com/arjan_tijms]
+* Bauke Scholtz
+* Werner Keil [link: https://twitter.com/wernerkeil]
+* Johan Vos
+* Reza Rahman [link: https://twitter.com/reza_rahman]
+* Kito Mann
+* Cagatay Civici
+* Josh Juneau [link: https://twitter.com/javajuneau]
+* Ivar Grimstad [link: https://twitter.com/ivar_grimstad]
+* David Heffelfinger
+* Murat Yener [link: https://twitter.com/yenerm]
+* Ryan Cuprak
+* Michael Remijan [link: https://twitter.com/mjremijan]
+* Gurkan Erdogdu
+* Rahman Usta
+* Ivan St. Ivanov
+* Stephan Knitelius
+* Christian Kaltepoth
+* Sebastian Daschner
+* Alex Theedom
+* Peter Pilgrim [link: http://twitter.com/peter_pilgrim]
+* Yoshio Terada [link: https://twitter.com/yoshioterada]
+* Badr El Houari
+* Mohamed Taman
+* Paris Apostolopoulos
+* Thorben Janssen
+* Mert Caliskan [link: http://twitter.com/mertcal]
+* Patrycja Wegrzynowicz
+* Christopher Judd
+* Ruslan Synytsky
+* Bessem Hmidi
+* Mike Croft
+* John Ament
+* Samuel Santos
+* Bruno Baptista
+* Rodrigo Candido da Silva
+* Yosi Pramajaya
+* Shahzad Badar
+* Nick Mpallas

@@ -1,0 +1,5 @@
+= Adoption Stories
+
+* Java EE in Practice at Lufthansa Industry Solutions [link: https://blogs.oracle.com/theaquarium/entry/java_ee_in_practice_at]
+* Java EE 7 in Production at Commerzbank [link: https://blogs.oracle.com/theaquarium/entry/java_ee_7_in_production1]
+* Migrating from Java EE 5 to Java EE 7 at Segurnet Portugal [link: https://blogs.oracle.com/theaquarium/entry/migrating_from_java_ee_5]

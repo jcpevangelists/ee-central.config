@@ -56,7 +56,7 @@ server-side computing.
 * link:java_ee_surveys.adoc[Java EE Surveys]
 * link:java_ee_progress.adoc[Java EE Progress]
 * link:what_we_are_doing.adoc[What We are Doing]
-* link:/guardians[Who Stands with Us]
+* link:../guardians[Who Stands with Us]
 * link:java_user_groups.adoc[Java User Groups]
 * link:companies.adoc[Companies]
 * link:how_can_i_help.adoc[How Can I Help]

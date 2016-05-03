@@ -1,63 +1,35 @@
-= Java EE Guardians
+= Lorem ipsum dolor sit amet
 
-Java EE is incredibly important to the long term health of the entire
-Java ecosystem. This is because of the basic fact that Java on the
-server will remain mission critical to global IT in the foreseeable
-future. Evidence of this is not hard to see for most reasonably
-objective folks:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi congue nibh at hendrerit rhoncus. Phasellus suscipit
+risus nec velit dignissim ullamcorper. Proin rhoncus orci sit amet volutpat porta. Sed ut felis tempor, dictum nisl a,
+condimentum eros. Quisque in justo vel mauris pellentesque rutrum. Sed lorem dui, molestie eget nulla quis, tincidunt
+ullamcorper enim. Donec sed eros non mi tempor gravida.
 
-* Hundreds of thousands of applications worldwide are written in Java EE, many of those applications are regularly being brought to light [link: Adoption Stories]. Even applications and frameworks that claim they do not use Java EE are in fact heavily dependent on many Java EE APIs today and going forward.
-* There were no less than 4,500 input points to the groundbreaking survey to determine Java EE 8 features [link: https://blogs.oracle.com/theaquarium/entry/java_ee_8_survey_final].
-* In major survey after survey developers continue to show their strong support for Java EE and its APIs [link: Java EE Surveys].
-* Java EE vendors are some of the most enviably profitable in our industry certainly including Oracle. [link: TODO Java EE Vendor Profits]
-* Few multi-vendor open standards are as widely implemented, supported, depended upon or as widely participated in as Java EE.
-* There is an extremely passionate, responsible community behind Java EE - most technologies would be hard pressed to find anything like the Java EE community. This group is a testament to this fact.
+Donec ultricies libero eget est pellentesque vulputate. Duis consequat porta odio. Nunc sit amet erat nibh. Etiam
+dignissim nunc vitae dolor ultricies, eu tempor ipsum sollicitudin. Nam bibendum dui id condimentum facilisis. Proin
+risus leo, hendrerit a bibendum molestie, sollicitudin non metus. Nullam efficitur velit vel feugiat tristique. Class
+aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc ut ligula iaculis, vulputate
+quam sed, bibendum est.
 
-Despite all this there is growing evidence [link: Java EE Progress]
-that Oracle is seriously neglecting Java EE, significantly weakening
-a very broad ecosystem along with it. At the current trajectory
-Java EE 8 won’t be delivered in anywhere near the time when it was
-initially promised if it is delivered at all.
+Nullam ac nulla tincidunt, scelerisque sem sed, porta mauris. Integer lacinia tincidunt tellus vel feugiat. Duis
+vulputate sit amet nibh sed scelerisque. Nullam fermentum nunc ipsum, ac hendrerit risus cursus ac. Mauris justo augue,
+consectetur id tortor a, ultricies ultricies libero. Curabitur nisl nisl, posuere ac aliquet sit amet, euismod sit amet
+arcu. Duis dui nisi, euismod eget lobortis quis, sodales ut augue. In sagittis volutpat vestibulum. Cras eleifend
+congue fermentum. Curabitur sit amet nisl et ligula gravida auctor. Curabitur augue velit, luctus vel sollicitudin
+quis, aliquam a metus. Suspendisse posuere non lectus vel facilisis.
 
-It is difficult to determine why this neglect from Oracle is
-occurring. Oracle has not shared it’s motivations even with
-it’s closest commercial partners let alone the community. A
-very troubling possibility is that it is being done because
-Oracle is backing away from an open standards based collaborative
-development approach and instead pursuing a highly proprietary,
-unilateral path even if it is aware this path is unlikely to lead
-to broad technology adoption or monetization.
+Cras accumsan arcu in imperdiet commodo. Maecenas vitae nisl sed turpis elementum tincidunt. Nulla imperdiet libero in
+ex molestie consectetur. Ut dapibus pellentesque justo, ac pretium magna interdum et. Lorem ipsum dolor sit amet,
+consectetur adipiscing elit. In sodales, dui ac viverra semper, orci nibh volutpat nisi, fringilla bibendum purus eros
+eu orci. Duis id diam consectetur, porttitor sapien vel, efficitur magna. Morbi sapien sapien, placerat eget suscipit
+eu, commodo vitae magna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
-This brings us to the question of what can be done. You should
-carefully note the surprisingly achievable work we are already
-doing and what we plan to do in order to move Java EE forward
-[link: What We are Doing]. We already have many key individuals,
-organizations and Java User Groups committed to solving this
-problem [link: Who Stands with Us].
+Sed sit amet mi bibendum, sagittis nunc id, pharetra dui. Vestibulum pellentesque eros id mollis aliquet. Integer quis
+arcu sit amet massa luctus porttitor. Nullam elit purus, efficitur ut purus at, finibus scelerisque nunc. Cras blandit
+nunc quis viverra varius. Mauris quis elit sollicitudin, placerat orci ac, venenatis arcu. Maecenas tincidunt, massa
+non vestibulum malesuada, nisi nunc pretium augue, vel finibus urna magna in dui. Donec lobortis ipsum mi, porta
+iaculis lorem ultricies nec. Nam varius metus non augue vulputate mattis. Duis ex purus, gravida eu nisl a, blandit
+ullamcorper nunc. Fusce in ligula nec ipsum euismod imperdiet. Vivamus accumsan aliquam erat, viverra pulvinar felis
+ornare in.
 
-As committed as we are we still need to effect change in a company
-with the size, scope and resources of Oracle. Getting Oracle to
-adapt to the legitimate interests of people outside of itself -
-even its own customers - has proven challenging in the past and
-we have no reason to believe it will be easy this time. The Java EE
-community really needs your help - no matter how big or small.
-We need the support of your voice and perhaps your volunteer time
-if you can afford it. These are the many ways you can help
-[link: How Can I Help].
-
-There is no denying there is plenty to be very concerned about for
-Java EE as well as the overall Java ecosystem - unless we change
-things for the better. We believe that with hard work together -
-including Oracle - we can prove that this is actually the dawn of
-a new era for an ever brighter future for Java, Java EE and
-server-side computing.
-
-* link:adoption_stories.adoc[Adoption Stories]
-* link:java_ee_surveys.adoc[Java EE Surveys]
-* link:java_ee_progress.adoc[Java EE Progress]
-* link:what_we_are_doing.adoc[What We are Doing]
-* link:../guardians[Who Stands with Us]
-* link:java_user_groups.adoc[Java User Groups]
-* link:companies.adoc[Companies]
-* link:how_can_i_help.adoc[How Can I Help]
-* link:java_ee_vendor_profits.adoc[Java EE Vendor Profits]
+* link:page_a.adoc[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]

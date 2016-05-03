@@ -1,7 +1,0 @@
-= How Can I Help
-
-* You can sign this petition of support with comments [TODO: We need to set up an easy to use petition signing system. It should include an approval step to avoid unwanted content. Perhaps change.org?]
-* You can help us spread the word on this effort by blogging, tweeting, posting, speaking or talking to friends and colleagues. We have our own Twitter account you can follow [link: http://twitter.com/javaee_guardian].
-* If you are an Oracle customer you can reach out to Oracle through proper channels and let them know how you feel about their actions.
-* You, your organization or your Java User Group can be listed here as a supporter.
-* You can join our user alias to learn more about what we are doing. Our Google Group can be found here [link: https://groups.google.com/forum/#!forum/javaee-guardians].

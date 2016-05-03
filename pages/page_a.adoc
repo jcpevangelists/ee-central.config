@@ -7,7 +7,7 @@ arcu. Duis dui nisi, euismod eget lobortis quis, sodales ut augue. In sagittis v
 congue fermentum. Curabitur sit amet nisl et ligula gravida auctor. Curabitur augue velit, luctus vel sollicitudin
 quis, aliquam a metus. Suspendisse posuere non lectus vel facilisis.
 
-image::image00.png[]
+image::monitor.jpg[]
 
 == Maecenas vitae nisl
 

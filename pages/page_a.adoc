@@ -4,8 +4,8 @@ Nullam ac nulla tincidunt, scelerisque sem sed, porta mauris. Integer lacinia ti
 vulputate sit amet nibh sed scelerisque. Nullam fermentum nunc ipsum, ac hendrerit risus cursus ac. Mauris justo augue,
 consectetur id tortor a, ultricies ultricies libero. Curabitur nisl nisl, posuere ac aliquet sit amet, euismod sit amet
 arcu. Duis dui nisi, euismod eget lobortis quis, sodales ut augue. In sagittis volutpat vestibulum. Cras eleifend
-congue fermentum. Curabitur sit amet nisl et ligula gravida auctor. Curabitur augue velit, luctus vel sollicitudin
-quis, aliquam a metus. Suspendisse posuere non lectus vel facilisis.
+congue fermentum. [highlight]Curabitur sit amet nisl et ligula gravida auctor. Curabitur augue velit, luctus vel 
+sollicitudin quis, aliquam a metus. Suspendisse posuere non lectus vel facilisis.
 
 image::monitor.jpg[]
 

@@ -16,4 +16,4 @@ We aim to grow the community, improve developer efficiency, and provide technica
 
 === About
 
-- <<mission.adoc#,JavaEE.io>>
+- link:mission.adoc[JavaEE.io]

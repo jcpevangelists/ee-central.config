@@ -1,0 +1,31 @@
+Java EE is one of the most important enterprise middleware standards of the past 3 decades. With broad and deep vendor adoption, particularly within the open source community, Java EE is used more widely in vertical sectors than any other standard, because it provides standards on assemblies and deployment; local and remote endpoints, object management with dependencies, with transactions, concurrency, persistence, messaging and dynamic web content.
+
+Although Oracle (after they acquired Sun Microsystems) owns the Java brand, Java EE has always been the product of multiple vendor and community collaborations:
+
+- Vendors, such as IBM, Red Hat and Oracle itself
+- Open source foundations, such as Eclipse and the Apache Software Foundation
+- Java User Groups, such as SouJava and LJC
+- And many individuals
+
+Oracle, and Sun before them, lead the umbrella Java EE Java Specification Request (JSR) and many of the components within it, such as JTA (transactions), JMS (messaging) and JAX-RS (REST). However, other vendors, foundations or individuals lead other Java EE JSRs or are actively involved in them.
+
+Unfortunately, in recent months the work on the latest version of Java EE, version 8, being lead by Oracle, has either slowed or stopped altogether. This is a regrettable situation, because several top-tier leaders in the community believe Java EE 8 has a strong future, and even beyond the traditional enterprise Java market. The risks of slowing the creation and hence adoption of Java EE 8 are such that the community believes they have no choice but to intervene.
+
+Regardless of the rise in alternative JVM programming languages, enterprise Java has a critical role to play in the coming years. Java EE, unlike its predecessor J2EE, already offers lightweight and modular runtimes, which support modern paradigms, such as microservices, modular applications and reactive architectures. **Java EE 8 has a great potential to enhance the current specifications in order to further increase the productivity in newly evolving areas such as mobile, cloud and IoT.**
+
+Therefore, in a similar manner to the http://www.adoptajsr.org[Adopt a JSR] program, the aims are to encourage JUG members, individuals, corporations and other organisations to get involved in Java EE 8 JSRs. This means more grass roots, developer level participation in existing and emerging Java EE standards.
+
+In addition to helping continue to drive Java EE 8 JSRs, one pragmatic aim of the group is to introduce resources such as:
+
+- Quickstarts
+- Tutorials
+- Maven and build archetypes
+- Screencasts
+- Reference architectures
+- Videos
+- Training references
+- And much more
+
+All together with the above resources, our work focuses on frameworks, tools and architectural designs for improving developer productivity when building modern applications using Java EE. The combination of Java EE 8 and these additional resources will grow the community, **improve developer efficiency**, and provide technical capabilities that address modern application requirements, all with a cohesive architectural approach.
+
+**JavaEE.io** is a community-driven project directed at addressing and bringing solutions to the challenges associated with the adoption and integration of new Java EE 8 technologies by providing a clear adoption/migration path, recommended usage and strong focus on enablement. The Community will find a large and growing variety of resources enabling them to quickly improve their Java EE 7 knowledge and adopt Java EE 8.

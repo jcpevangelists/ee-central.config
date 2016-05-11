@@ -13,3 +13,7 @@ This is a community-driven site to gather relevant information about Java EE eco
 - And much more...
 
 We aim to grow the community, improve developer efficiency, and provide technical capabilities that address modern application requirements, all with a cohesive architectural approach that Java EE provides.
+
+=== About
+
+- <<mission.adoc#,JavaEE.io>>

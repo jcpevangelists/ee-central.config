@@ -13,7 +13,7 @@ Unfortunately, in recent months the work on the latest version of Java EE, versi
 
 Regardless of the rise in alternative JVM programming languages, enterprise Java has a critical role to play in the coming years. Java EE, unlike its predecessor J2EE, already offers lightweight and modular runtimes, which support modern paradigms, such as microservices, modular applications and reactive architectures. **Java EE 8 has a great potential to enhance the current specifications in order to further increase the productivity in newly evolving areas such as mobile, cloud and IoT.**
 
-Therefore, in a similar manner to the http://www.adoptajsr.org[Adopt a JSR] program, the aims are to encourage JUG members, individuals, corporations and other organisations to get involved in Java EE 8 JSRs. This means more grass roots, developer level participation in existing and emerging Java EE standards.
+Therefore, in a similar manner to the http://www.adoptajsr.org[Adopt a JSR^] program, the aims are to encourage JUG members, individuals, corporations and other organisations to get involved in Java EE 8 JSRs. This means more grass roots, developer level participation in existing and emerging Java EE standards.
 
 In addition to helping continue to drive Java EE 8 JSRs, one pragmatic aim of the group is to introduce resources such as:
 

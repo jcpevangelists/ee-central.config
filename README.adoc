@@ -10,7 +10,7 @@ Afterwards, adoc files in `pages` folder will be available in `target/generated-
 
 == Pages
 
-Site pages are configured by files in `pages` folder. They can be in any markup supported by GitHub, but we adoc format is preferred.
+Site pages are configured by files in `pages` folder. They can be in any markup supported by GitHub, but adoc format is preferred.
 
 === Page configuration files
 

@@ -17,26 +17,4 @@ We aim to grow the community, improve developer efficiency, and provide
 echnical capabilities that address modern application requirements,
 all with a cohesive architectural approach that Java EE provides.
 
-=== Java EE
-
-- Learn
-- Documentation
-- Download
-- Tools
-- Community
-- Java EE 8
-
-=== About
-
-- link:mission.adoc[JavaEE.io]
-- link:../contributors[Contributors]
-- https://jcp.org[Java Community Process]
-
-=== Follow
-
-- link:javaee-mailing-lists.adoc[JavaEE mailing lists]
-- https://twitter.com/search?q=%23javaee&src=typd[#JavaEE on Twitter]
-
-=== Contribute
-
-- http://javaee.support/contribute/[JavaEE.support]
+include::footer.adoc[]

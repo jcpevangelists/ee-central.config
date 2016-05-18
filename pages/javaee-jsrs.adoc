@@ -1,0 +1,63 @@
+Each JSR (Java Specification Request) has a JCP page, which provides basic information about the JSR. The JCP pages provide links to
+
+- The Specification Documents
+- Public Communications (Mailing lists)
+- Issue Tracking
+
+== Java EE 7 JSRs
+
+- https://www.jcp.org/en/jsr/detail?id=342[JSR 342: Java(TM) Platform, Enterprise Edition 7 (Java EE 7)] (https://glassfish.java.net[Reference implementation])
+- https://jcp.org/en/jsr/detail?id=353[JSR 353: Java(TM) API for JSON Processing] (https://jsonp.java.net/[Reference implementation])
+- https://www.jcp.org/en/jsr/detail?id=356[JSR 356: Java(TM) API for WebSocket] (https://tyrus.java.net/[Reference implementation])
+- https://jcp.org/en/jsr/detail?id=339[JSR 339: JAX-RS 2.0: The Java(TM) API for RESTful Web Services] (https://jersey.java.net/[Reference implementation])
+- https://jcp.org/en/jsr/detail?id=344[JSR 344: JavaServer(TM) Faces 2.2] (https://javaserverfaces.java.net/[Reference implementation])
+- https://jcp.org/en/jsr/detail?id=340[JSR 340: Java Servlet 3.1] (https://glassfish.java.net[Reference implementation])
+- https://jcp.org/en/jsr/detail?id=341[JSR 341: Expression Language 3.0] (https://uel.java.net/[Reference implementation])
+- https://jcp.org/en/jsr/detail?id=352[JSR 352: Batch Applications for the Java Platform] (https://java.net/projects/jbatch/[Reference implementation])
+- https://jcp.org/en/jsr/detail?id=236[JSR 236: Concurrency Utilities for Java(TM) EE] (https://java.net/projects/cu-javaee[Reference implementation])
+- https://jcp.org/en/jsr/detail?id=343[JSR 343: Java(TM) Message Service 2.0] (https://mq.java.net/[Reference implementation])
+- https://jcp.org/en/jsr/detail?id=338[JSR 338: Java(TM) Persistence 2.1] (http://www.eclipse.org/eclipselink/[Reference implementation])
+- https://jcp.org/en/jsr/detail?id=345[JSR 345: Enterprise JavaBeans(TM) 3.2] (https://glassfish.java.net[Reference implementation])
+- https://jcp.org/en/jsr/detail?id=346[JSR 346: Contexts and Dependency Injection for Java(TM) EE 1.1] (http://weld.cdi-spec.org/[Reference implementation], http://www.cdi-spec.org/[The CDI Project])
+- https://jcp.org/en/jsr/detail?id=349[JSR 349: Bean Validation 1.1] (http://hibernate.org/validator/[Reference implementation], http://beanvalidation.org[The Bean Validation Project])
+- https://jcp.org/en/jsr/detail?id=907[JSR 907: Java(TM) Transaction API (JTA)] (https://glassfish.java.net[Reference implementation])
+- https://jcp.org/en/jsr/detail?id=318[Interceptors 1.2 (JSR 318: Enterprise JavaBeans(TM) 3.1)] (https://glassfish.java.net[Reference implementation])
+- https://jcp.org/en/jsr/detail?id=196[JSR 196: JavaTM Authentication Service Provider Interface for Containers (JASPIC)] (https://glassfish.java.net[Reference implementation])
+
+////
+Source for the list of Java EE 7 JSRs: https://blogs.oracle.com/java/entry/java_ee_7_the_details
+Complete list of JSRs available in Java EE 7 on GlassFish page: https://glassfish.java.net/downloads/ri/
+////
+
+=== Older JSRs
+
+- http://jcp.org/en/jsr/detail?id=245[JSR 245: JavaServer(TM) Pages 2.1]
+- https://jcp.org/en/jsr/detail?id=52[JSR 52: A Standard Tag Library for JavaServer Pages(TM)]
+- https://jcp.org/en/jsr/detail?id=224[JSR 224: Java(TM) API for XML-Based Web Services (JAX-WS) 2.0] (https://jax-ws.java.net/2.2/[Reference implementation])
+- https://jcp.org/en/jsr/detail?id=919[JSR 919: JavaMail(TM)]
+- https://jcp.org/en/jsr/detail?id=115[JSR 115: Java(TM) Authorization Contract for Containers (JACC)]
+- https://jcp.org/en/jsr/detail?id=250[JSR 250: Common Annotations for the Java(TM) Platform]
+- https://jcp.org/en/jsr/detail?id=322[JSR 322: Java(TM) EE Connector Architecture (JCA) 1.6]
+- https://jcp.org/en/jsr/detail?id=77[JSR 77: J2EETM Management]
+
+== JSRs targeting Java EE 8
+
+- https://jcp.org/en/jsr/detail?id=366[JSR 366: Java Platform, Enterprise Edition 8 (Java EE 8)] (https://java.net/projects/javaee-spec/lists/users/archive[Users Mailing List])
+- https://jcp.org/en/jsr/detail?id=107[JSR 107: JCACHE - Java Temporary Caching API] (https://groups.google.com/forum/?fromgroups=#!forum/jsr107[Mailing List])
+- https://jcp.org/en/jsr/detail?id=367[JSR 367: Java(TM) API for JSON Binding (JSON-B)] (https://java.net/projects/jsonb-spec/lists/users/archive[Users Mailing List])
+- https://jcp.org/en/jsr/detail?id=371[JSR 371: Model-View-Controller (MVC 1.0)] (https://java.net/projects/mvc-spec/lists/users/archive[Users Mailing List])
+- https://jcp.org/en/jsr/detail?id=373[JSR 373: Java(TM) EE Management API 2.0] (https://java.net/projects/javaee-mgmt/lists/users/archive[Users Mailing List])
+- https://jcp.org/en/jsr/detail?id=375[JSR 375: Java(TM) EE Security API] (https://java.net/projects/javaee-security-spec/lists/users/archive[Users Mailing List])
+- https://jcp.org/en/jsr/detail?id=372[JSR 372: JavaServer Faces (JSF 2.3)] (https://java.net/projects/javaserverfaces-spec-public/lists/users/archive[Users Mailing List])
+- https://jcp.org//en/jsr/detail?id=369[JSR 369: Java(TM) Servlet 4.0] (https://java.net/projects/servlet-spec/lists/users/archive[Users Mailing List])
+- https://jcp.org/en/jsr/detail?id=362[JSR 362: Portlet Specification 3.0] (https://java.net/projects/portletspec3/lists/jsr362-observers/archive[Observers Mailing List], https://java.net/projects/portletspec3[The Portlets project])
+- https://jcp.org/en/jsr/detail?id=365[JSR 365: Contexts and Dependency Injection for Java(TM) 2.0] (http://lists.jboss.org/pipermail/cdi-dev/[Mailing List], http://www.cdi-spec.org/[The CDI Project])
+- https://jcp.org/en/jsr/detail?id=374[JSR 374: JavaTM API for JSON Processing 1.1] (https://java.net/projects/json-processing-spec/lists/users/archive[Users Mailing List])
+
+
+////
+Adam Bien's digests:
+   - http://www.adam-bien.com/roller/abien/entry/your_java_ee_8_daily
+   - http://www.adam-bien.com/roller/abien/entry/the_ingredients_of_java_ee
+Java EE 8 on Glassfish page: https://glassfish.java.net/adoptajsr/
+////

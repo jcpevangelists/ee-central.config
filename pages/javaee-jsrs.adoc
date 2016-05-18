@@ -6,23 +6,96 @@ Each JSR (Java Specification Request) has a JCP page, which provides basic infor
 
 == Java EE 7 JSRs
 
-- https://www.jcp.org/en/jsr/detail?id=342[JSR 342: Java(TM) Platform, Enterprise Edition 7 (Java EE 7)] (https://glassfish.java.net[Reference implementation])
-- https://jcp.org/en/jsr/detail?id=353[JSR 353: Java(TM) API for JSON Processing] (https://jsonp.java.net/[Reference implementation])
-- https://www.jcp.org/en/jsr/detail?id=356[JSR 356: Java(TM) API for WebSocket] (https://tyrus.java.net/[Reference implementation])
-- https://jcp.org/en/jsr/detail?id=339[JSR 339: JAX-RS 2.0: The Java(TM) API for RESTful Web Services] (https://jersey.java.net/[Reference implementation])
-- https://jcp.org/en/jsr/detail?id=344[JSR 344: JavaServer(TM) Faces 2.2] (https://javaserverfaces.java.net/[Reference implementation])
-- https://jcp.org/en/jsr/detail?id=340[JSR 340: Java Servlet 3.1] (https://glassfish.java.net[Reference implementation])
-- https://jcp.org/en/jsr/detail?id=341[JSR 341: Expression Language 3.0] (https://uel.java.net/[Reference implementation])
-- https://jcp.org/en/jsr/detail?id=352[JSR 352: Batch Applications for the Java Platform] (https://java.net/projects/jbatch/[Reference implementation])
-- https://jcp.org/en/jsr/detail?id=236[JSR 236: Concurrency Utilities for Java(TM) EE] (https://java.net/projects/cu-javaee[Reference implementation])
-- https://jcp.org/en/jsr/detail?id=343[JSR 343: Java(TM) Message Service 2.0] (https://mq.java.net/[Reference implementation])
-- https://jcp.org/en/jsr/detail?id=338[JSR 338: Java(TM) Persistence 2.1] (http://www.eclipse.org/eclipselink/[Reference implementation])
-- https://jcp.org/en/jsr/detail?id=345[JSR 345: Enterprise JavaBeans(TM) 3.2] (https://glassfish.java.net[Reference implementation])
-- https://jcp.org/en/jsr/detail?id=346[JSR 346: Contexts and Dependency Injection for Java(TM) EE 1.1] (http://weld.cdi-spec.org/[Reference implementation], http://www.cdi-spec.org/[The CDI Project])
-- https://jcp.org/en/jsr/detail?id=349[JSR 349: Bean Validation 1.1] (http://hibernate.org/validator/[Reference implementation], http://beanvalidation.org[The Bean Validation Project])
-- https://jcp.org/en/jsr/detail?id=907[JSR 907: Java(TM) Transaction API (JTA)] (https://glassfish.java.net[Reference implementation])
-- https://jcp.org/en/jsr/detail?id=318[Interceptors 1.2 (JSR 318: Enterprise JavaBeans(TM) 3.1)] (https://glassfish.java.net[Reference implementation])
-- https://jcp.org/en/jsr/detail?id=196[JSR 196: JavaTM Authentication Service Provider Interface for Containers (JASPIC)] (https://glassfish.java.net[Reference implementation])
+[cols="1,10,4,4", options="header"]
+|===
+| JSR | Specification | Reference implementation |
+
+|342
+|https://www.jcp.org/en/jsr/detail?id=342[Java(TM) Platform, Enterprise Edition 7 (Java EE 7)]
+| https://glassfish.java.net[GlassFish]
+|
+
+|353
+|https://jcp.org/en/jsr/detail?id=353[Java(TM) API for JSON Processing]
+|https://jsonp.java.net/[JSON-P]
+|
+
+|356
+|https://www.jcp.org/en/jsr/detail?id=356[Java(TM) API for WebSocket]
+|https://tyrus.java.net/[Tyrus]
+|
+
+|339
+|https://jcp.org/en/jsr/detail?id=339[JAX-RS 2.0: The Java(TM) API for RESTful Web Services]
+|https://jersey.java.net/[Jersey]
+|
+
+|344
+|https://jcp.org/en/jsr/detail?id=344[JavaServer(TM) Faces 2.2]
+| https://javaserverfaces.java.net/[Mojarra]
+|
+
+|340
+|https://jcp.org/en/jsr/detail?id=340[Java Servlet 3.1]
+|https://glassfish.java.net[GlassFish]
+|
+
+|341
+|https://jcp.org/en/jsr/detail?id=341[Expression Language 3.0]
+|https://uel.java.net/[Unified Expression Language]
+|
+
+|352
+|https://jcp.org/en/jsr/detail?id=352[Batch Applications for the Java Platform]
+|https://java.net/projects/jbatch/[Java Batch]
+|
+
+|236
+|https://jcp.org/en/jsr/detail?id=236[Concurrency Utilities for Java(TM) EE]
+|https://java.net/projects/cu-javaee[Concurrency Utilities]
+|
+
+|343
+|https://jcp.org/en/jsr/detail?id=343[Java(TM) Message Service 2.0]
+|https://mq.java.net/[Open MQ]
+|
+
+|338
+|https://jcp.org/en/jsr/detail?id=338[ava(TM) Persistence 2.1]
+|http://www.eclipse.org/eclipselink/[EclipseLink]
+|
+
+|345
+|https://jcp.org/en/jsr/detail?id=345[Enterprise JavaBeans(TM) 3.2]
+|https://glassfish.java.net[GlassFish]
+|
+
+|346
+|https://jcp.org/en/jsr/detail?id=346[Contexts and Dependency Injection for Java(TM) EE 1.1]
+|http://weld.cdi-spec.org/[Weld]
+|http://www.cdi-spec.org/[The CDI Project]
+
+|349
+|https://jcp.org/en/jsr/detail?id=349[Bean Validation 1.1]
+|http://hibernate.org/validator/[Hibernate Validator]
+|http://beanvalidation.org[The Bean Validation Project]
+
+|907
+|https://jcp.org/en/jsr/detail?id=907[Java(TM) Transaction API (JTA)]
+|https://glassfish.java.net[GlassFish]
+|
+
+|318
+|https://jcp.org/en/jsr/detail?id=318[Interceptors 1.2 (Enterprise JavaBeans(TM) 3.1)]
+|https://glassfish.java.net[GlassFish]
+|
+
+|196
+|https://jcp.org/en/jsr/detail?id=196[Java(TM) Authentication Service Provider Interface for Containers (JASPIC)]
+|https://glassfish.java.net[Reference implementation]
+|
+
+|===
 
 ////
 Source for the list of Java EE 7 JSRs: https://blogs.oracle.com/java/entry/java_ee_7_the_details

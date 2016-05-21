@@ -1,3 +1,6 @@
+[.lead]
+**JavaEE.io** is a community-driven project directed at addressing and bringing solutions to the challenges associated with the adoption and integration of new Java EE 8 technologies by providing a clear adoption/migration path, recommended usage and strong focus on enablement. The Community will find a large and growing variety of resources enabling them to quickly improve their Java EE 7 knowledge and adopt Java EE 8.
+
 Java EE is one of the most important enterprise middleware standards of the past 3 decades. With broad and deep vendor adoption, particularly within the open source community, Java EE is used more widely in vertical sectors than any other standard, because it provides standards on assemblies and deployment; local and remote endpoints, object management with dependencies, with transactions, concurrency, persistence, messaging and dynamic web content.
 
 Although Oracle (after they acquired Sun Microsystems) owns the Java brand, Java EE has always been the product of multiple vendor and community collaborations:
@@ -28,4 +31,4 @@ In addition to helping continue to drive Java EE 8 JSRs, one pragmatic aim of th
 
 All together with the above resources, our work focuses on frameworks, tools and architectural designs for improving developer productivity when building modern applications using Java EE. The combination of Java EE 8 and these additional resources will grow the community, **improve developer efficiency**, and provide technical capabilities that address modern application requirements, all with a cohesive architectural approach.
 
-**JavaEE.io** is a community-driven project directed at addressing and bringing solutions to the challenges associated with the adoption and integration of new Java EE 8 technologies by providing a clear adoption/migration path, recommended usage and strong focus on enablement. The Community will find a large and growing variety of resources enabling them to quickly improve their Java EE 7 knowledge and adopt Java EE 8.
+include::footer.adoc[]

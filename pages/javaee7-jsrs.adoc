@@ -1,10 +1,10 @@
+== Java EE 7 JSRs
+
 Each JSR (Java Specification Request) has a https://jcp.org[JCP] page, which provides basic information about the JSR. The JCP pages provide links to
 
 - The Specification Documents
 - Public Communications (Mailing lists)
 - Issue Tracking
-
-== Java EE 7 JSRs
 
 [cols="1,2,10,4,4", options="header"]
 |===
@@ -121,6 +121,8 @@ Complete list of JSRs available in Java EE 7 on GlassFish page: https://glassfis
 
 === Older JSRs
 
+Following JSRs also belong to Java EE 7. However, they were delivered in older versions of JavaEE/J2EE and were not updated in Java EE 7, except maintenance releases.
+
 [cols="1,2,10,6", options="header"]
 |===
 | JSR | Acronym | Specification | Reference Implementation
@@ -166,85 +168,3 @@ Complete list of JSRs available in Java EE 7 on GlassFish page: https://glassfis
 |
 
 |===
-
-== JSRs targeting Java EE 8
-
-[cols="1,2,10,6", options="header"]
-|===
-| JSR | Acronym | Specification |
-
-|366
-|Java EE 8
-|https://jcp.org/en/jsr/detail?id=366[Java Platform, Enterprise Edition 8]
-|https://java.net/projects/javaee-spec/lists/users/archive[Users Mailing List]
-
-|365
-|CDI 2.0
-|https://jcp.org/en/jsr/detail?id=365[Contexts and Dependency Injection for Java(TM) 2.0]
-|http://lists.jboss.org/pipermail/cdi-dev/[Mailing List], http://www.cdi-spec.org/[The CDI Project]
-
-|369
-|Servlet 4.0
-|https://jcp.org//en/jsr/detail?id=369[Java(TM) Servlet 4.0]
-|https://java.net/projects/servlet-spec/lists/users/archive[Users Mailing List]
-
-|107
-|JCache
-|https://jcp.org/en/jsr/detail?id=107[JCACHE - Java Temporary Caching API]
-|https://groups.google.com/forum/?fromgroups=#!forum/jsr107[Mailing List]
-
-|367
-|JSON-B
-|https://jcp.org/en/jsr/detail?id=367[Java(TM) API for JSON Binding]
-|https://java.net/projects/jsonb-spec/lists/users/archive[Users Mailing List]
-
-|371
-|MVC 1.0
-|https://jcp.org/en/jsr/detail?id=371[Model-View-Controller]
-|https://java.net/projects/mvc-spec/lists/users/archive[Users Mailing List]
-
-|370
-|JAX-RS 2.1
-|https://jcp.org/en/jsr/detail?id=370[Java(TM) API for RESTful Web Services 2.1]
-|https://java.net/projects/jax-rs-spec/lists/users/archive[Users Mailing List]
-
-|373
-|Management 2.0
-|https://jcp.org/en/jsr/detail?id=373[Java(TM) EE Management API 2.0]
-|https://java.net/projects/javaee-mgmt/lists/users/archive[Users Mailing List]
-
-|375
-|Security
-|https://jcp.org/en/jsr/detail?id=375[Java(TM) EE Security API]
-|https://java.net/projects/javaee-security-spec/lists/users/archive[Users Mailing List], https://github.com/javaee-security-spec[Project page]
-
-|372
-|JSF 2.3
-|https://jcp.org/en/jsr/detail?id=372[JavaServer Faces 2.3]
-|https://java.net/projects/javaserverfaces-spec-public/lists/users/archive[Users Mailing List]
-
-|362
-|Portlet 3.0
-|https://jcp.org/en/jsr/detail?id=362[Portlet Specification 3.0]
-|https://java.net/projects/portletspec3/lists/jsr362-observers/archive[Observers Mailing List], https://java.net/projects/portletspec3[The Portlets project]
-
-|374
-|JSON-P 1.1
-|https://jcp.org/en/jsr/detail?id=374[Java(TM) API for JSON Processing 1.1]
-|https://java.net/projects/json-processing-spec/lists/users/archive[Users Mailing List]
-
-|===
-
-////
-Other JSRs: JAX-RS 2.1 https://jcp.org/en/jsr/detail?id=370
-////
-
-////
-Adam Bien's digests:
-   - http://www.adam-bien.com/roller/abien/entry/your_java_ee_8_daily
-   - http://www.adam-bien.com/roller/abien/entry/the_ingredients_of_java_ee
-Java EE 8 on Glassfish page: https://glassfish.java.net/adoptajsr/
-Java EE 8 github references: https://github.com/javaee-spec/java-ee-specs
-////
-
-include::footer.adoc[]

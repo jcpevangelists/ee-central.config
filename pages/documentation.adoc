@@ -1,0 +1,3 @@
+include::javaee7-jsrs.adoc[]
+
+include::footer.adoc[]

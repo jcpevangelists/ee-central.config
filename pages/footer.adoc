@@ -1,3 +1,5 @@
+'''
+
 ****
 
 [cols="1a,1a,1a,1a", options="header"]
@@ -6,20 +8,24 @@
 
 |
 - Learn
-- Documentation
+- link:documentation.adoc[Documentation]
 - Download
 - Tools
 - Community
-- Java EE 8
+- link:javaee8.adoc[Java EE 8]
 
 |
 - link:mission.adoc[JavaEE.io]
 - link:../contributors[Contributors]
+
+'''
+
+- https://oracle.com/javaee[Java EE]
 - https://jcp.org[Java Community Process]
 
 |
-- link:javaee-jsrs.adoc[JavaEE specifications]
-- https://twitter.com/Java_EE[@Java_EE] and  https://twitter.com/search?q=%23javaee&src=typd[#JavaEE] on Twitter
+- T: https://twitter.com/Java_EE[@Java_EE], https://twitter.com/search?q=%23javaee&src=typd[#JavaEE]
+- link:javaee8-progress.adoc[JavaEE 8 progress]
 
 |
 - http://javaee.support/contribute/[JavaEE.support]

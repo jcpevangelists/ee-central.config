@@ -128,7 +128,7 @@ Complete list of JSRs available in Java EE 7 on GlassFish page: https://glassfis
 |224
 |JAX-WS 2.0
 |https://jcp.org/en/jsr/detail?id=224[Java(TM) API for XML-Based Web Services 2.0]
-|https://jax-ws.java.net/2.2/[Reference implementation]
+|https://jax-ws.java.net/[Metro]
 
 |245
 |JSP 2.1
@@ -178,6 +178,16 @@ Complete list of JSRs available in Java EE 7 on GlassFish page: https://glassfis
 |https://jcp.org/en/jsr/detail?id=366[Java Platform, Enterprise Edition 8]
 |https://java.net/projects/javaee-spec/lists/users/archive[Users Mailing List]
 
+|365
+|CDI 2.0
+|https://jcp.org/en/jsr/detail?id=365[Contexts and Dependency Injection for Java(TM) 2.0]
+|http://lists.jboss.org/pipermail/cdi-dev/[Mailing List], http://www.cdi-spec.org/[The CDI Project]
+
+|369
+|Servlet 4.0
+|https://jcp.org//en/jsr/detail?id=369[Java(TM) Servlet 4.0]
+|https://java.net/projects/servlet-spec/lists/users/archive[Users Mailing List]
+
 |107
 |JCache
 |https://jcp.org/en/jsr/detail?id=107[JCACHE - Java Temporary Caching API]
@@ -188,48 +198,39 @@ Complete list of JSRs available in Java EE 7 on GlassFish page: https://glassfis
 |https://jcp.org/en/jsr/detail?id=367[Java(TM) API for JSON Binding]
 |https://java.net/projects/jsonb-spec/lists/users/archive[Users Mailing List]
 
-
 |371
 |MVC 1.0
 |https://jcp.org/en/jsr/detail?id=371[Model-View-Controller]
 |https://java.net/projects/mvc-spec/lists/users/archive[Users Mailing List]
 
+|370
+|JAX-RS 2.1
+|https://jcp.org/en/jsr/detail?id=370[Java(TM) API for RESTful Web Services 2.1]
+|https://java.net/projects/jax-rs-spec/lists/users/archive[Users Mailing List]
 
 |373
 |Management 2.0
 |https://jcp.org/en/jsr/detail?id=373[Java(TM) EE Management API 2.0]
 |https://java.net/projects/javaee-mgmt/lists/users/archive[Users Mailing List]
 
-
 |375
 |Security
 |https://jcp.org/en/jsr/detail?id=375[Java(TM) EE Security API]
-|https://java.net/projects/javaee-security-spec/lists/users/archive[Users Mailing List]
+|https://java.net/projects/javaee-security-spec/lists/users/archive[Users Mailing List], https://github.com/javaee-security-spec[Project page]
 
 |372
 |JSF 2.3
 |https://jcp.org/en/jsr/detail?id=372[JavaServer Faces 2.3]
 |https://java.net/projects/javaserverfaces-spec-public/lists/users/archive[Users Mailing List]
 
-|369
-|Servlet 4.0
-|https://jcp.org//en/jsr/detail?id=369[Java(TM) Servlet 4.0]
-|https://java.net/projects/servlet-spec/lists/users/archive[Users Mailing List]
-
-
 |362
 |Portlet 3.0
 |https://jcp.org/en/jsr/detail?id=362[Portlet Specification 3.0]
 |https://java.net/projects/portletspec3/lists/jsr362-observers/archive[Observers Mailing List], https://java.net/projects/portletspec3[The Portlets project]
 
-|365
-|CDI 2.0
-|https://jcp.org/en/jsr/detail?id=365[Contexts and Dependency Injection for Java(TM) 2.0]
-|http://lists.jboss.org/pipermail/cdi-dev/[Mailing List], http://www.cdi-spec.org/[The CDI Project]
-
 |374
-|ACRONYM
-|https://jcp.org/en/jsr/detail?id=374[JavaTM API for JSON Processing 1.1]
+|JSON-P 1.1
+|https://jcp.org/en/jsr/detail?id=374[Java(TM) API for JSON Processing 1.1]
 |https://java.net/projects/json-processing-spec/lists/users/archive[Users Mailing List]
 
 |===

@@ -16,7 +16,7 @@
 === Follow
 
 - link:javaee-jsrs.adoc[JavaEE specifications]
-- https://twitter.com/search?q=%23javaee&src=typd[#JavaEE on Twitter]
+- https://twitter.com/Java_EE[@Java_EE] and  https://twitter.com/search?q=%23javaee&src=typd[#JavaEE] on Twitter
 
 === Contribute
 

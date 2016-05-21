@@ -244,4 +244,5 @@ Adam Bien's digests:
    - http://www.adam-bien.com/roller/abien/entry/your_java_ee_8_daily
    - http://www.adam-bien.com/roller/abien/entry/the_ingredients_of_java_ee
 Java EE 8 on Glassfish page: https://glassfish.java.net/adoptajsr/
+Java EE 8 github references: https://github.com/javaee-spec/java-ee-specs
 ////

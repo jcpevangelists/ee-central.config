@@ -1,5 +1,10 @@
-=== Java EE
+****
 
+[cols="1a,1a,1a,1a", options="header"]
+|===
+| Java EE | About | Follow | Contribute
+
+|
 - Learn
 - Documentation
 - Download
@@ -7,19 +12,20 @@
 - Community
 - Java EE 8
 
-=== About
-
+|
 - link:mission.adoc[JavaEE.io]
 - link:../contributors[Contributors]
 - https://jcp.org[Java Community Process]
 
-=== Follow
-
+|
 - link:javaee-jsrs.adoc[JavaEE specifications]
 - https://twitter.com/Java_EE[@Java_EE] and  https://twitter.com/search?q=%23javaee&src=typd[#JavaEE] on Twitter
 
-=== Contribute
-
+|
 - http://javaee.support/contribute/[JavaEE.support]
 - https://glassfish.java.net/adoptajsr/[Get Involved with Java EE 8]
 - http://adoptajsr.org/[Adopt a JSR Program]
+
+|===
+
+****

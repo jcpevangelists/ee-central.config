@@ -1,4 +1,4 @@
-Each JSR (Java Specification Request) has a JCP page, which provides basic information about the JSR. The JCP pages provide links to
+Each JSR (Java Specification Request) has a https://jcp.org[JCP] page, which provides basic information about the JSR. The JCP pages provide links to
 
 - The Specification Documents
 - Public Communications (Mailing lists)
@@ -246,3 +246,5 @@ Adam Bien's digests:
 Java EE 8 on Glassfish page: https://glassfish.java.net/adoptajsr/
 Java EE 8 github references: https://github.com/javaee-spec/java-ee-specs
 ////
+
+include::footer.adoc[]

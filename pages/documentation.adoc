@@ -168,6 +168,3 @@ Following JSRs also belong to Java EE 7. However, they were delivered in older v
 |
 
 |===
-
-
-include::footer.adoc[]

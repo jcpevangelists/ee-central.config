@@ -3,5 +3,3 @@
 ++++
 
 Follow progress on link:javaee8-progress.adoc[JSRs targeting JavaEE 8].
-
-include::footer.adoc[]

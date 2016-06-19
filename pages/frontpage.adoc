@@ -16,5 +16,3 @@ Java EE ecosystem, including:
 We aim to grow the community, improve developer efficiency, and provide
 echnical capabilities that address modern application requirements,
 all with a cohesive architectural approach that Java EE provides.
-
-include::footer.adoc[]

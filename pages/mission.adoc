@@ -30,5 +30,3 @@ In addition to helping continue to drive Java EE 8 JSRs, one pragmatic aim of th
 - And much more
 
 All together with the above resources, our work focuses on frameworks, tools and architectural designs for improving developer productivity when building modern applications using Java EE. The combination of Java EE 8 and these additional resources will grow the community, **improve developer efficiency**, and provide technical capabilities that address modern application requirements, all with a cohesive architectural approach.
-
-include::footer.adoc[]

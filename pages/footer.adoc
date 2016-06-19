@@ -24,7 +24,8 @@
 - https://jcp.org[Java Community Process]
 
 |
-- T: https://twitter.com/Java_EE[@Java_EE], https://twitter.com/search?q=%23javaee&src=typd[#JavaEE]
+- https://twitter.com/Java_EE[@Java_EE]
+- https://twitter.com/search?q=%23javaee&src=typd[#JavaEE]
 - link:javaee8-progress.adoc[JavaEE 8 progress]
 
 |

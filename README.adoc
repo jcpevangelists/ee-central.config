@@ -6,7 +6,9 @@ In order to preview the pages locally, execute
 
     mvn package
 
-Afterwards, adoc files in `pages` folder will be available in `target/generated-adoc/pages/`
+Afterwards, adoc files in `pages` folder will be available in `target/generated-adoc/pages-preview/`.
+
+You can also link the application using `javaeeio_devel_pages_root` property (and devel profile) to pages-embed, where is plain generated html output, without html header and footer.
 
 == Pages
 

@@ -12,6 +12,12 @@ Afterwards, adoc files in `pages` folder will be available in `target/generated-
 
 You can also link the application using `javaeeio_devel_pages_root` property (and devel profile) to pages-embed, where is plain generated html output, without html header and footer. Again, note that such pages may support more Asciidoc options than supported by the real site.
 
+== How to contribute
+
+The preferred way to accept contribution is by pull requests. For the main repository https://github.com/jcpevangelists/javaee.io.config/[jcpevangelists/javaee.io.config], edit pages in `pages` folder (information below), and create a pull request.
+
+Information on which content is missing and planned to be added to the site is available on https://drive.google.com/drive/u/0/folders/0B3aSdhyM5-5CZGFYTmJwcjc3Qmc[this public google docucoment].
+
 == Pages
 
 Site pages are configured by files in `pages` folder. They can be in any markup supported by GitHub, but adoc format is preferred.

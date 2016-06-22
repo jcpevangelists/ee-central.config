@@ -1,18 +1,28 @@
-= javaee.io Configuration Project
+= ee-central.io Configuration Project
 
-This project holds all the configuration and editable content of the projects published at https://javaee.io/.
+This project holds all the configuration and editable content of the projects published as a demo at https://bit.ly/ee-io (and later will be published under ee-central.io domain).
 
-In order to preview the pages locally, execute
+The application is configured to read the pages and configuration from this repository. For pages, it uses GitHub API to convert markup documents (AsciiDoc, Markdown, ...) into html content. Therefore the page will look similar to what you get when you preview the page in the browser on GitHub site (except some CSS styles applied).
+
+In order to preview the pages locally, before the pages are commited to the Github repository, execute
 
     mvn package
 
-Afterwards, adoc files in `pages` folder will be available in `target/generated-adoc/pages-preview/`.
+Afterwards, adoc files in `pages` folder will be available in `target/generated-adoc/pages-preview/`. Note that this generator runs AsciiDoc generator directly and supports more features than Github generator (e.g. it will properly include files when include directive is used, while Github will just produce link to the included file). Therefore generated pages may not always look like they appear finally on the site.
 
-You can also link the application using `javaeeio_devel_pages_root` property (and devel profile) to pages-embed, where is plain generated html output, without html header and footer.
+You can also link the application using `javaeeio_devel_pages_root` property (and devel profile) to pages-embed, where is plain generated html output, without html header and footer. Again, note that such pages may support more Asciidoc options than supported by the real site.
+
+== How to contribute
+
+The preferred way to accept contribution is by pull requests. For the main repository https://github.com/jcpevangelists/javaee.io.config/[jcpevangelists/javaee.io.config], edit pages in `pages` folder (information below), and create a pull request.
+
+Information on which content is missing and planned to be added to the site is available on https://drive.google.com/drive/u/0/folders/0B3aSdhyM5-5CZGFYTmJwcjc3Qmc[this public google docucoment].
 
 == Pages
 
 Site pages are configured by files in `pages` folder. They can be in any markup supported by GitHub, but adoc format is preferred.
+
+Generally it should be enough to preview the pages in your fork using GitHub site, as this is very close to how they will look like in the application. When the main repository is updated (usually when a pull request is accepted), then the application is automatically updated with recent changes in the repository.
 
 === Page configuration files
 

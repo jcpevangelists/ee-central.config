@@ -15,7 +15,7 @@
 - link:javaee8.adoc[Java EE 8]
 
 |
-- link:mission.adoc[JavaEE.io]
+- link:mission.adoc[EE-Central.io]
 - link:../contributors[Contributors]
 
 '''

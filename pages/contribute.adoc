@@ -1,0 +1,8 @@
+== How to contribute to ee-central.io site
+
+The site ee-central.io is developed in the open, with the sources and content available on Github.
+You are free to contribute to the following github repositories by sending pull requests:
+
+ - https://github.com/jcpevangelists/javaee.io[jcpevangelists/javaee.io] - the application that powers the site
+ - https://github.com/jcpevangelists/javaee.io.config[jcpevangelists/javaee.io.config] - configuration and content for the site
+ 

@@ -7,7 +7,8 @@ You are free to contribute to the following github repositories by sending pull 
  - https://github.com/jcpevangelists/javaee.io.config[jcpevangelists/javaee.io.config] - configuration and content for the site
  
 Issue tracker: https://github.com/jcpevangelists/javaee.io/issues[Github issues for jcpevangelists/javaee.io]
+
  - tasks for adding new content into the ee-central.io site
  - enhancements/fixes for the application that powers the site
  - questions/discussion about ee-central.io site and related projects
-   - an issue can be created for any topic, until a mailing list / forum is estabished
+   * an issue can be created for any topic, until a mailing list / forum is estabished

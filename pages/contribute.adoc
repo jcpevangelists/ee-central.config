@@ -3,10 +3,10 @@
 The site ee-central.io is developed in the open, with the sources and content available on Github.
 You are free to contribute to the following github repositories by sending pull requests:
 
- - https://github.com/jcpevangelists/javaee.io[jcpevangelists/javaee.io] - the application that powers the site
- - https://github.com/jcpevangelists/javaee.io.config[jcpevangelists/javaee.io.config] - configuration and content for the site
+ - https://github.com/jcpevangelists/ee-central[jcpevangelists/ee-central] - the application that powers the site
+ - https://github.com/jcpevangelists/ee-central.config[jcpevangelists/ee-central.config] - configuration and content for the site
  
-Issue tracker: https://github.com/jcpevangelists/javaee.io/issues[Github issues for jcpevangelists/javaee.io]
+Issue tracker: https://github.com/jcpevangelists/ee-central/issues[Github issues for jcpevangelists/ee-central]
 
  - tasks for adding new content into the ee-central.io site
  - enhancements/fixes for the application that powers the site

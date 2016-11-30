@@ -2,4 +2,4 @@
 <!-- ZEEF widget start --><iframe src="//zeef.io/block/12700?max_links=15&font_size=16&show_curator=0&show_logo=1" width="600" height="600" frameborder="0" scrolling="no"></iframe><!-- ZEEF widget end -->
 ++++
 
-Follow progress on link:javaee8-progress.adoc[JSRs targeting JavaEE 8].
+Follow progress on link:javaee8-progress.adoc[JavaEE 8 progress].

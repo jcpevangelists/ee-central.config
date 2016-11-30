@@ -1,10 +1,14 @@
-== JSRs targeting Java EE 8
+== JavaEE 8 progress
 
 Each JSR (Java Specification Request) has a https://jcp.org[JCP] page, which provides basic information about the JSR. The JCP pages provide links to
 
 - Public Communications (Mailing lists)
 - Issue Tracking
 - Draft Documents if already available
+
+=== JSRs targeting Java EE 8
+
+JSRs that are planned to be released in scope of Java EE 8. These should be mentioned in a Java EE 8 specification draft or planned to be added there.
 
 [cols="1,2,10,6", options="header"]
 |===
@@ -25,30 +29,15 @@ Each JSR (Java Specification Request) has a https://jcp.org[JCP] page, which pro
 |https://jcp.org//en/jsr/detail?id=369[Java(TM) Servlet 4.0]
 |https://java.net/projects/servlet-spec/lists/users/archive[Users Mailing List]
 
-|107
-|JCache
-|https://jcp.org/en/jsr/detail?id=107[JCACHE - Java Temporary Caching API]
-|https://groups.google.com/forum/?fromgroups=#!forum/jsr107[Mailing List]
-
 |367
 |JSON-B
 |https://jcp.org/en/jsr/detail?id=367[Java(TM) API for JSON Binding]
 |https://java.net/projects/jsonb-spec/lists/users/archive[Users Mailing List]
 
-|371
-|MVC 1.0
-|https://jcp.org/en/jsr/detail?id=371[Model-View-Controller]
-|https://java.net/projects/mvc-spec/lists/users/archive[Users Mailing List]
-
 |370
 |JAX-RS 2.1
 |https://jcp.org/en/jsr/detail?id=370[Java(TM) API for RESTful Web Services 2.1]
 |https://java.net/projects/jax-rs-spec/lists/users/archive[Users Mailing List]
-
-|373
-|Management 2.0
-|https://jcp.org/en/jsr/detail?id=373[Java(TM) EE Management API 2.0]
-|https://java.net/projects/javaee-mgmt/lists/users/archive[Users Mailing List]
 
 |375
 |Security
@@ -70,11 +59,48 @@ Each JSR (Java Specification Request) has a https://jcp.org[JCP] page, which pro
 |https://jcp.org/en/jsr/detail?id=374[Java(TM) API for JSON Processing 1.1]
 |https://java.net/projects/json-processing-spec/lists/users/archive[Users Mailing List]
 
+|370
+|JAX-RS 2.1
+|https://jcp.org/en/jsr/detail?id=370[Java(TM) API for RESTful Web Services]
+|https://java.net/projects/jax-rs-spec/lists/users/archive[Users Mailing List]
+
 |===
 
-////
-Other JSRs: JAX-RS 2.1 https://jcp.org/en/jsr/detail?id=370
-////
+=== Related JSRs
+
+The specifications being considered for inclusion into future Java EE versions.
+
+[cols="1,2,10,6", options="header"]
+|===
+| JSR | Acronym | JCP page |
+
+|371
+|MVC 1.0
+|https://jcp.org/en/jsr/detail?id=371[Model-View-Controller]
+|https://java.net/projects/mvc-spec/lists/users/archive[Users Mailing List]
+
+|107
+|JCache
+|https://jcp.org/en/jsr/detail?id=107[JCACHE - Java Temporary Caching API]
+|https://groups.google.com/forum/?fromgroups=#!forum/jsr107[Mailing List]
+
+|===
+
+=== Abandoned JSRs
+
+The specifications that were targeted Java EE but they were abandoned and are now currently not being developed.
+
+[cols="1,2,10,6", options="header"]
+|===
+| JSR | Acronym | JCP page |
+
+|373
+|Management 2.0
+|https://jcp.org/en/jsr/detail?id=373[Java(TM) EE Management API 2.0]
+|https://java.net/projects/javaee-mgmt/lists/users/archive[Users Mailing List]
+
+|===
+
 
 ////
 Adam Bien's digests:

@@ -1,0 +1,6 @@
+%YAML 1.2
+---
+name: javaee-cool/javaee-cool.github.io
+friendly_name: Java EE is cool
+home: _docs/index.md
+spec: true

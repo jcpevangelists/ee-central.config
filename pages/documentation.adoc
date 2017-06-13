@@ -13,43 +13,43 @@ Each JSR (Java Specification Request) has a https://jcp.org[JCP] page, which pro
 |342
 |Java EE 7
 |https://www.jcp.org/en/jsr/detail?id=342[Java(TM) Platform, Enterprise Edition 7 (Java EE 7)]
-| https://glassfish.java.net[GlassFish]
+| https://javaee.github.io/glassfish/[GlassFish]
 |
 
 |353
 |JSON-P
 |https://jcp.org/en/jsr/detail?id=353[Java(TM) API for JSON Processing]
-|https://jsonp.java.net/[JSON-P]
+|https://javaee.github.io/jsonp/[JSON-P]
 |
 
 |356
 |WebSockets
 |https://www.jcp.org/en/jsr/detail?id=356[Java(TM) API for WebSocket]
-|https://tyrus.java.net/[Tyrus]
+|https://tyrus-project.github.io/[Tyrus]
 |
 
 |339
 |JAX-RS 2.0
 |https://jcp.org/en/jsr/detail?id=339[JAX-RS 2.0: The Java(TM) API for RESTful Web Services]
-|https://jersey.java.net/[Jersey]
+|https://jersey.github.io/[Jersey]
 |
 
 |344
 |JSF 2.2
 |https://jcp.org/en/jsr/detail?id=344[JavaServer(TM) Faces 2.2]
-| https://javaserverfaces.java.net/[Mojarra]
+| https://javaee.github.io/javaserverfaces-spec/[Mojarra]
 |
 
 |340
 |Servlet 3.1
 |https://jcp.org/en/jsr/detail?id=340[Java Servlet 3.1]
-|https://glassfish.java.net[GlassFish]
+|https://javaee.github.io/glassfish/[GlassFish]
 |
 
 |341
 |EL 3.0
 |https://jcp.org/en/jsr/detail?id=341[Expression Language 3.0]
-|https://uel.java.net/[Unified Expression Language]
+|https://javaee.github.io/uel-ri/[Unified Expression Language]
 |
 
 |352
@@ -61,13 +61,13 @@ Each JSR (Java Specification Request) has a https://jcp.org[JCP] page, which pro
 |236
 |Concurrency
 |https://jcp.org/en/jsr/detail?id=236[Concurrency Utilities for Java(TM) EE]
-|https://java.net/projects/cu-javaee[Concurrency Utilities]
+|https://github.com/javaee/cu-ri[Concurrency Utilities]
 |
 
 |343
 |JMS 2.0
 |https://jcp.org/en/jsr/detail?id=343[Java(TM) Message Service 2.0]
-|https://mq.java.net/[Open MQ]
+|https://javaee.github.io/openmq/[Open MQ]
 |
 
 |338
@@ -79,7 +79,7 @@ Each JSR (Java Specification Request) has a https://jcp.org[JCP] page, which pro
 |345
 |EJB 3.2
 |https://jcp.org/en/jsr/detail?id=345[Enterprise JavaBeans(TM) 3.2]
-|https://glassfish.java.net[GlassFish]
+|https://javaee.github.io/glassfish/[GlassFish]
 |
 
 |346
@@ -97,19 +97,19 @@ Each JSR (Java Specification Request) has a https://jcp.org[JCP] page, which pro
 |907
 |JTA
 |https://jcp.org/en/jsr/detail?id=907[Java(TM) Transaction API]
-|https://glassfish.java.net[GlassFish]
+|https://javaee.github.io/glassfish/[GlassFish]
 |
 
 |318
 |Interceptors 1.2
 |https://jcp.org/en/jsr/detail?id=318[Interceptors 1.2 (Enterprise JavaBeans(TM) 3.1]
-|https://glassfish.java.net[GlassFish]
+|https://javaee.github.io/glassfish/[GlassFish]
 |
 
 |196
 |JASPIC
 |https://jcp.org/en/jsr/detail?id=196[Java(TM) Authentication Service Provider Interface for Containers]
-|https://glassfish.java.net[GlassFish]
+|https://javaee.github.io/glassfish/[GlassFish]
 |
 
 |===
@@ -130,7 +130,7 @@ Following JSRs also belong to Java EE 7. However, they were delivered in older v
 |224
 |JAX-WS 2.0
 |https://jcp.org/en/jsr/detail?id=224[Java(TM) API for XML-Based Web Services 2.0]
-|https://jax-ws.java.net/[Metro]
+|https://javaee.github.io/metro/[Metro]
 
 |245
 |JSP 2.1

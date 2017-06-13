@@ -67,7 +67,7 @@ Each JSR (Java Specification Request) has a https://jcp.org[JCP] page, which pro
 |343
 |JMS 2.0
 |https://jcp.org/en/jsr/detail?id=343[Java(TM) Message Service 2.0]
-|https://mq.java.net/[Open MQ]
+|https://javaee.github.io/openmq/[Open MQ]
 |
 
 |338
@@ -79,7 +79,7 @@ Each JSR (Java Specification Request) has a https://jcp.org[JCP] page, which pro
 |345
 |EJB 3.2
 |https://jcp.org/en/jsr/detail?id=345[Enterprise JavaBeans(TM) 3.2]
-|https://glassfish.java.net[GlassFish]
+|https://javaee.github.io/glassfish/[GlassFish]
 |
 
 |346
@@ -97,19 +97,19 @@ Each JSR (Java Specification Request) has a https://jcp.org[JCP] page, which pro
 |907
 |JTA
 |https://jcp.org/en/jsr/detail?id=907[Java(TM) Transaction API]
-|https://glassfish.java.net[GlassFish]
+|https://javaee.github.io/glassfish/[GlassFish]
 |
 
 |318
 |Interceptors 1.2
 |https://jcp.org/en/jsr/detail?id=318[Interceptors 1.2 (Enterprise JavaBeans(TM) 3.1]
-|https://glassfish.java.net[GlassFish]
+|https://javaee.github.io/glassfish/[GlassFish]
 |
 
 |196
 |JASPIC
 |https://jcp.org/en/jsr/detail?id=196[Java(TM) Authentication Service Provider Interface for Containers]
-|https://glassfish.java.net[GlassFish]
+|https://javaee.github.io/glassfish/[GlassFish]
 |
 
 |===
@@ -130,7 +130,7 @@ Following JSRs also belong to Java EE 7. However, they were delivered in older v
 |224
 |JAX-WS 2.0
 |https://jcp.org/en/jsr/detail?id=224[Java(TM) API for XML-Based Web Services 2.0]
-|https://jax-ws.java.net/[Metro]
+|https://javaee.github.io/metro/[Metro]
 
 |245
 |JSP 2.1

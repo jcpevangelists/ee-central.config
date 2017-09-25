@@ -12,7 +12,6 @@
 - Download
 - Tools
 - Community
-- link:javaee8.adoc[Java EE 8]
 
 |
 - link:mission.adoc[EE-Central.io]
@@ -25,6 +24,7 @@
 - https://jcp.org[Java Community Process]
 
 |
+- https://twitter.com/eecentral_io[@EEcentral_io]
 - https://twitter.com/Java_EE[@Java_EE]
 - https://twitter.com/search?q=%23javaee&src=typd[#JavaEE]
 - link:javaee8-progress.adoc[Java EE 8 progress]

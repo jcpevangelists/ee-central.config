@@ -1,49 +1,78 @@
-== Java EE 7 JSRs
-
-Each JSR (Java Specification Request) has a https://jcp.org[JCP] page, which provides basic information about the JSR. The JCP pages provide links to
+Each part of Java EE is described by a JSR (Java Specification Request). Every JSR has a https://jcp.org[JCP] page, which provides basic information about the JSR. The JCP pages provide links to
 
 - The Specification Documents
 - Public Communications (Mailing lists)
 - Issue Tracking
 
+More information about Java EE can be found on the https://javaee.github.io/[Java EE GitHub page].
+
+[cols="1,2,10,4", options="header"]
+|===
+| JSR | Acronym | Specification | Reference Implementation
+
+|366
+|Java EE 8
+|https://jcp.org/en/jsr/detail?id=366[Java Platform, Enterprise Edition 8]
+| https://javaee.github.io/glassfish[GlassFish 5]
+
+|===
+
+
+== Java EE 8 Web Profile JSRs
+
+The Web Profile is a subset of the Java EE functionality targeted at developers of modern web applications. It provides a reasonably complete stack, without the some older functionality that's less likely used in new applications.
+
+
 [cols="1,2,10,4,4", options="header"]
 |===
 | JSR | Acronym | Specification | Reference Implementation |
 
-|342
-|Java EE 7
-|https://www.jcp.org/en/jsr/detail?id=342[Java(TM) Platform, Enterprise Edition 7 (Java EE 7)]
-| https://javaee.github.io/glassfish/[GlassFish]
-|
+|374
+|JSON-P 1.1
+|https://jcp.org/en/jsr/detail?id=374[Java(TM) API for JSON Processing 1.1]
+|https://github.com/javaee/jsonp[JSON-P]
+|https://javaee.github.io/jsonp/[JSON-P project page]
 
-|353
-|JSON-P
-|https://jcp.org/en/jsr/detail?id=353[Java(TM) API for JSON Processing]
-|https://javaee.github.io/jsonp/[JSON-P]
-|
+|367
+|JSON-B
+|https://jcp.org/en/jsr/detail?id=367[Java(TM) API for JSON Binding]
+|https://github.com/eclipse/yasson[Yasson]
+|http://json-b.net/[JSON-B project page]
 
 |356
-|WebSockets
+|WebSockets 1.1
 |https://www.jcp.org/en/jsr/detail?id=356[Java(TM) API for WebSocket]
 |https://tyrus-project.github.io/[Tyrus]
 |
 
-|339
-|JAX-RS 2.0
-|https://jcp.org/en/jsr/detail?id=339[JAX-RS 2.0: The Java(TM) API for RESTful Web Services]
+|370
+|JAX-RS 2.1
+|https://jcp.org/en/jsr/detail?id=370[Java(TM) API for RESTful Web Services 2.1]
 |https://jersey.github.io/[Jersey]
 |
 
-|344
-|JSF 2.2
-|https://jcp.org/en/jsr/detail?id=344[JavaServer(TM) Faces 2.2]
-| https://javaee.github.io/javaserverfaces-spec/[Mojarra]
+|372
+|JSF 2.3
+|https://jcp.org/en/jsr/detail?id=372[JavaServer Faces 2.3]
+| https://javaserverfaces.github.io/[Mojarra]
 |
 
-|340
-|Servlet 3.1
-|https://jcp.org/en/jsr/detail?id=340[Java Servlet 3.1]
-|https://javaee.github.io/glassfish/[GlassFish]
+|245
+|JSP 2.1
+|http://jcp.org/en/jsr/detail?id=245[JavaServer(TM) Pages 2.1]
+| https://javaee.github.io/glassfish[GlassFish]
+|
+
+|52
+|JSTL
+|https://jcp.org/en/jsr/detail?id=52[A Standard Tag Library for JavaServer Pages(TM)]
+| https://javaee.github.io/glassfish[GlassFish]
+|
+
+|369
+|Servlet 4.0
+|https://jcp.org//en/jsr/detail?id=369[Java(TM) Servlet 4.0]
+| https://javaee.github.io/glassfish[GlassFish]
 |
 
 |341
@@ -52,10 +81,81 @@ Each JSR (Java Specification Request) has a https://jcp.org[JCP] page, which pro
 |https://javaee.github.io/uel-ri/[Unified Expression Language]
 |
 
-|352
-|Batch
-|https://jcp.org/en/jsr/detail?id=352[Batch Applications for the Java Platform]
-|https://java.net/projects/jbatch/[Java Batch]
+|338
+|JPA 2.2
+|https://jcp.org/en/jsr/detail?id=338[Java(TM) Persistence]
+|http://www.eclipse.org/eclipselink/[EclipseLink]
+|
+
+|907
+|JTA
+|https://jcp.org/en/jsr/detail?id=907[Java(TM) Transaction API]
+| https://javaee.github.io/glassfish[GlassFish]
+|
+
+|345
+|EJB 3.2 Lite
+|https://jcp.org/en/jsr/detail?id=345[Enterprise JavaBeans(TM) Core 3.2]
+| https://javaee.github.io/glassfish[GlassFish]
+|
+
+|365
+|CDI 2.0
+|https://jcp.org/en/jsr/detail?id=365[Contexts and Dependency Injection for Java(TM) 2.0]
+|http://weld.cdi-spec.org/[Weld]
+|http://www.cdi-spec.org/[The CDI Project]
+
+|380
+|Bean Validation 2.0
+|https://www.jcp.org/en/jsr/detail?id=380[Bean Validation 2.0]
+|http://hibernate.org/validator/[Hibernate Validator]
+|http://beanvalidation.org[The Bean Validation Project]
+
+|318
+|Interceptors 1.2
+|https://jcp.org/en/jsr/detail?id=318[Interceptors 1.2 (Enterprise JavaBeans(TM) 3.1]
+| https://javaee.github.io/glassfish[GlassFish]
+|
+
+|375
+|Security
+|https://jcp.org/en/jsr/detail?id=375[Java(TM) EE Security API]
+|https://github.com/javaee/security-soteria[Soteria]
+|
+
+|196
+|JASPIC
+|https://jcp.org/en/jsr/detail?id=196[Java(TM) Authentication Service Provider Interface for Containers]
+| https://javaee.github.io/glassfish[GlassFish]
+|
+
+|250
+|Annotations
+|https://jcp.org/en/jsr/detail?id=250[Common Annotations for the Java(TM) Platform]
+| https://javaee.github.io/glassfish[GlassFish]
+|
+
+|===
+
+== Java EE 8 Full Profile JSRs
+
+The Full Profile contains all the features of Java EE. Below are all the JSRs that are part of the Full Profile and aren't included in the Web Profile.
+
+
+[cols="1,2,10,4,4", options="header"]
+|===
+| JSR | Acronym | Specification | Reference Implementation |
+
+|343
+|JMS 2.0
+|https://jcp.org/en/jsr/detail?id=343[Java(TM) Message Service 2.0]
+|https://javaee.github.io/openmq/[Open MQ]
+|
+
+|224
+|JAX-WS 2.0
+|https://jcp.org/en/jsr/detail?id=224[Java(TM) API for XML-Based Web Services 2.0]
+|https://jax-ws.java.net/[Metro]
 |
 
 |236
@@ -64,107 +164,52 @@ Each JSR (Java Specification Request) has a https://jcp.org[JCP] page, which pro
 |https://github.com/javaee/cu-ri[Concurrency Utilities]
 |
 
-|343
-|JMS 2.0
-|https://jcp.org/en/jsr/detail?id=343[Java(TM) Message Service 2.0]
-|https://javaee.github.io/openmq/[Open MQ]
-|
-
-|338
-|JPA 2.1
-|https://jcp.org/en/jsr/detail?id=338[Java(TM) Persistence 2.1]
-|http://www.eclipse.org/eclipselink/[EclipseLink]
-|
+|352
+|Batch
+|https://jcp.org/en/jsr/detail?id=352[Batch Applications for the Java Platform]
+|https://github.com/WASdev/standards.jsr352.jbatch[Java Batch]
+|https://github.com/WASdev/standards.jsr352.batch-spec/wiki[Java Batch documentation]
 
 |345
-|EJB 3.2
-|https://jcp.org/en/jsr/detail?id=345[Enterprise JavaBeans(TM) 3.2]
-|https://javaee.github.io/glassfish/[GlassFish]
-|
-
-|346
-|CDI 1.1
-|https://jcp.org/en/jsr/detail?id=346[Contexts and Dependency Injection for Java(TM) EE 1.1]
-|http://weld.cdi-spec.org/[Weld]
-|http://www.cdi-spec.org/[The CDI Project]
-
-|349
-|Validation 1.1
-|https://jcp.org/en/jsr/detail?id=349[Bean Validation 1.1]
-|http://hibernate.org/validator/[Hibernate Validator]
-|http://beanvalidation.org[The Bean Validation Project]
-
-|907
-|JTA
-|https://jcp.org/en/jsr/detail?id=907[Java(TM) Transaction API]
-|https://javaee.github.io/glassfish/[GlassFish]
-|
-
-|318
-|Interceptors 1.2
-|https://jcp.org/en/jsr/detail?id=318[Interceptors 1.2 (Enterprise JavaBeans(TM) 3.1]
-|https://javaee.github.io/glassfish/[GlassFish]
-|
-
-|196
-|JASPIC
-|https://jcp.org/en/jsr/detail?id=196[Java(TM) Authentication Service Provider Interface for Containers]
-|https://javaee.github.io/glassfish/[GlassFish]
-|
-
-|===
-
-////
-Source for the list of Java EE 7 JSRs: https://blogs.oracle.com/java/entry/java_ee_7_the_details
-Complete list of JSRs available in Java EE 7 on GlassFish page: https://glassfish.java.net/downloads/ri/
-////
-
-=== Older JSRs
-
-Following JSRs also belong to Java EE 7. However, they were delivered in older versions of JavaEE/J2EE and were not updated in Java EE 7, except maintenance releases.
-
-[cols="1,2,10,6", options="header"]
-|===
-| JSR | Acronym | Specification | Reference Implementation
-
-|224
-|JAX-WS 2.0
-|https://jcp.org/en/jsr/detail?id=224[Java(TM) API for XML-Based Web Services 2.0]
-|https://javaee.github.io/metro/[Metro]
-
-|245
-|JSP 2.1
-|http://jcp.org/en/jsr/detail?id=245[JavaServer(TM) Pages 2.1]
-|
-
-|52
-|JSTL
-|https://jcp.org/en/jsr/detail?id=52[A Standard Tag Library for JavaServer Pages(TM)]
+|EJB 3.2 Optional
+|https://jcp.org/en/jsr/detail?id=345[Enterprise JavaBeans(TM) Optional 3.2]
+| https://javaee.github.io/glassfish[GlassFish]
 |
 
 |919
-|Mail
+|Mail 1.6
 |https://jcp.org/en/jsr/detail?id=919[JavaMail(TM)]
+|https://javaee.github.io/javamail/[JavaMail]
 |
 
 |115
 |JACC
 |https://jcp.org/en/jsr/detail?id=115[Java(TM) Authorization Contract for Containers]
-|
-
-|250
-|Annotations
-|https://jcp.org/en/jsr/detail?id=250[Common Annotations for the Java(TM) Platform]
+| https://javaee.github.io/glassfish[GlassFish]
 |
 
 |322
-|JCA 1.6
-|https://jcp.org/en/jsr/detail?id=322[Java(TM) EE Connector Architecture 1.6]
+|JCA 1.7
+|https://jcp.org/en/jsr/detail?id=322[Java(TM) EE Connector Architecture]
+| https://javaee.github.io/glassfish[GlassFish]
 |
 
 |77
 |Management
 |https://jcp.org/en/jsr/detail?id=77[J2EE(TM) Management]
+| https://javaee.github.io/glassfish[GlassFish]
 |
 
 |===
+
+////
+Source for the list of Java EE 8 JSRs: https://blogs.oracle.com/theaquarium/java-ee-8-is-final-and-glassfish-50-is-released
+Complete list of JSRs available in Java EE 8 on GlassFish page: https://javaee.github.io/glassfish/downloads/ri/README
+////
+
+
+|===
+
+Complete list of the JSRs can also be found on the https://javaee.github.io/glassfish/downloads/ri/README[GlassFish 5 documentation page].
+
+Documentation for older version Java EE 7 can be found link:documentation_ee7.adoc[here].

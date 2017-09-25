@@ -1,0 +1,2 @@
+- https://javaee.github.io/tutorial/[Java EE tutorial]
+- https://javaee-cool.github.io/docs/home/[Java EE "Cool" guide]

@@ -7,7 +7,7 @@
 | Java EE | About | Follow | Contribute
 
 |
-- Learn
+- link:learn.adoc[Learn]
 - link:documentation.adoc[Documentation]
 - Download
 - Tools

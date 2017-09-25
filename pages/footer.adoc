@@ -30,7 +30,6 @@
 
 |
 - link:contribute.adoc[Contribute to ee-central.io]
-- http://javaee.support/contribute/[JavaEE.support]
 - https://glassfish.java.net/adoptajsr/[Get Involved with Java EE 8]
 - http://adoptajsr.org/[Adopt a JSR Program]
 

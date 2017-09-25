@@ -20,7 +20,8 @@
 
 '''
 
-- https://oracle.com/javaee[Java EE]
+- https://oracle.com/javaee[About Java EE]
+- https://javaee.github.io/[Java EE project]
 - https://jcp.org[Java Community Process]
 
 |

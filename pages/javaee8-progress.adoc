@@ -49,11 +49,6 @@ JSRs that are planned to be released in scope of Java EE 8. These should be ment
 |https://jcp.org/en/jsr/detail?id=372[JavaServer Faces 2.3]
 |https://java.net/projects/javaserverfaces-spec-public/lists/users/archive[Users Mailing List]
 
-|362
-|Portlet 3.0
-|https://jcp.org/en/jsr/detail?id=362[Portlet Specification 3.0]
-|https://java.net/projects/portletspec3/lists/jsr362-observers/archive[Observers Mailing List], https://java.net/projects/portletspec3[The Portlets project]
-
 |374
 |JSON-P 1.1
 |https://jcp.org/en/jsr/detail?id=374[Java(TM) API for JSON Processing 1.1]
@@ -83,6 +78,11 @@ The specifications being considered for inclusion into future Java EE versions.
 |JCache
 |https://jcp.org/en/jsr/detail?id=107[JCACHE - Java Temporary Caching API]
 |https://groups.google.com/forum/?fromgroups=#!forum/jsr107[Mailing List]
+
+|362
+|Portlet 3.0
+|https://jcp.org/en/jsr/detail?id=362[Portlet Specification 3.0]
+|https://java.net/projects/portletspec3/lists/jsr362-observers/archive[Observers Mailing List], https://java.net/projects/portletspec3[The Portlets project]
 
 |===
 
